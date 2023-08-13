@@ -55,7 +55,7 @@ Contact: ykjung.rokafa@gmail.com
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
 
-🗄 Projects
+🎖 Honors and Awards
 ------
 * Summer 2015: Research Assistant
   * Github University
@@ -67,8 +67,30 @@ Contact: ykjung.rokafa@gmail.com
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
 
-🎖 Honors and Awards
+🗄 Research Projects
 ------
+* Summer 2015: Research Assistant
+  * Github University
+  * Duties included: Tagging issues
+  * Supervisor: Professor Git
+
+* Fall 2015: Research Assistant
+  * Github University
+  * Duties included: Merging pull requests
+  * Supervisor: Professor Hub
+
+💼 Academic Activities
+* Summer 2015: Research Assistant
+  * Github University
+  * Duties included: Tagging issues
+  * Supervisor: Professor Git
+
+* Fall 2015: Research Assistant
+  * Github University
+  * Duties included: Merging pull requests
+  * Supervisor: Professor Hub
+
+🔥 Other Experience
 * Summer 2015: Research Assistant
   * Github University
   * Duties included: Tagging issues
