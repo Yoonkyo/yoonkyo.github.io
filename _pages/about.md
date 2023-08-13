@@ -80,6 +80,7 @@ Contact: ykjung.rokafa@gmail.com
   * Supervisor: Professor Hub
 
 💼 Academic Activities
+------
 * Summer 2015: Research Assistant
   * Github University
   * Duties included: Tagging issues
@@ -91,6 +92,7 @@ Contact: ykjung.rokafa@gmail.com
   * Supervisor: Professor Hub
 
 🔥 Other Experience
+------
 * Summer 2015: Research Assistant
   * Github University
   * Duties included: Tagging issues
