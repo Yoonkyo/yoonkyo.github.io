@@ -29,7 +29,7 @@ Contact: ykjung.rokafa@gmail.com
 <br>Mar. 2013 ‑ Feb. 2017
 </span>
 
-👨‍💼 Work Experience
+👨‍💼 Professional Experience
 ------
 * Department Chair
 <span style="font-size:80%">
@@ -37,13 +37,11 @@ Contact: ykjung.rokafa@gmail.com
 <br>Jan. 2023 - now
 </span>
 
-
 * Assistent Professor
 <span style="font-size:80%">
 <br>Department of Computer Science, ROKAFA
 <br>Apr. 2022 - now
 </span>
-
 
 * Researcher
 <span style="font-size:80%">
@@ -51,13 +49,11 @@ Contact: ykjung.rokafa@gmail.com
 <br>Feb. 2021 - now
 </span>
 
-
 * Project Management Officer
 <span style="font-size:80%">
 <br>Aerospace Research Institute, ROKAFA
 <br>Dec. 2021 - Dec. 2022
 </span>
-
 
 * Full-time Lecturer
 <span style="font-size:80%">
@@ -65,13 +61,18 @@ Contact: ykjung.rokafa@gmail.com
 <br>Feb. 2021 - Mar. 2022
 </span>
 
+* Research Assistant
+<span style="font-size:80%">
+<br>Department of Computer Science and Engineering, SNU
+<br>Samsung Electronics SNU R&D Center
+<br>Feb. 2019 - Jan. 2021
+</span>
 
 * Radar Maintenance officer
 <span style="font-size:80%">
 <br>Air Defense Missile Command, ROKAF
 <br>Apr. 2018 - Jan. 2019
 </span>
-
 
 * Recruit Training Officer
 <span style="font-size:80%">
@@ -96,7 +97,7 @@ Contact: ykjung.rokafa@gmail.com
 ------
 * Assistant Professor
 <span style="font-size:80%">
-<br>Republic of Korea Air Force Academy
+<br>Republic of Korea Air Force Academy (ROKAFA)
 <br>2023 Fall: Data Communication, Hacking and Defense, Convergence Capstone Design
 <br>2023 Spring: Network Programming, Embedded System, Convergence Capstone Design
 <br>2022 Fall: Hacking and Defense
@@ -105,37 +106,50 @@ Contact: ykjung.rokafa@gmail.com
 
 * Full-time Lecturer
 <span style="font-size:80%">
-<br>Republic of Korea Air Force Academy
+<br>Republic of Korea Air Force Academy (ROKAFA)
 <br>2021 Fall: Software Programming, Data Structure, Hacking and Defense
 <br>2021 Spring: Software Programming, Embedded System
 </span>
 
 * Teaching Assistant
 <span style="font-size:80%">
-<br>Seoul National University
+<br>Seoul National University (SNU)
 <br>2020 Fall: Internet Security and Privacy
 </span>
 
-🎖 Honors and Awards
+🎖️ Honors and Awards
 ------
+* Full Scholarship for Graduate Studies (Ph.D)
+<span style="font-size:80%">
+<br>R.O.K Ministry of National Defense
+<br>Sep 2024 ‑ 
+</span>
+
 * Best Paper Award
 <span style="font-size:80%">
 <br>"Development of Multi-copter Propeller Distortion Measurement Device Using Three-side Image Analysis"
-<br>Korea Computer Congress, KIISE, 2022.
+<br>Korea Computer Congress, Korean Institute of Information Scientists and Engineers (KIISE), 2022.
 </span>
-
 
 * Excellence Award
 <span style="font-size:80%">
 <br>"AI-based Smart Flight Scheduling System"
-<br>Creative and Innovation Idea Hackathon, R.O.K Air Force, 2021.
+<br>Creative and Innovation Idea Hackathon, Republic of Korea Air Force (ROKAF), 2021.
 </span>
 
-* Best Student Paper Award
+* Full Scholarship for Graduate Studies (M.S)
+<span style="font-size:80%">
+<br>R.O.K Ministry of National Defense
+<br>Mar. 2019 ‑ Feb. 2021
+</span>
+
+* Best Undergraduate Paper Award
 <span style="font-size:80%">
 <br>"Efficiency Validation and Improvement of Bus Booking Mobile Application"
-<br>Student Paper Contest, KOPOMS, 2016.
+<br>Student Paper Contest, Korea Production and Operation Management Society (KOPOMS), 2016.
 </span>
+
+
 
 🗄 Research Projects
 ------
@@ -169,17 +183,37 @@ Contact: ykjung.rokafa@gmail.com
 <br>Jun. 2019 - Oct. 2019
 </span>
 
-💼 Academic Activities
+💼 Memberships & Professional Societies
 ------
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 한국컴퓨터정보학회 정회원
+<span style="font-size:80%">
+<br>2023 ~ now
+</span>
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 한국정보기술학회 정회원
+<span style="font-size:80%">
+<br>2023 ~ now
+</span>
+
+- 한국정보통신학회 정회원
+<span style="font-size:80%">
+<br>2022 ~ now
+</span>
+
+- 한국융합기술연구학회 정회원
+<span style="font-size:80%">
+<br>2022 ~ now
+</span>
+
+- 한국정보처리학회 종신회원
+<span style="font-size:80%">
+<br>2022 ~ now
+</span>
+
+* 한국정보과학회 종신회원
+<span style="font-size:80%">
+<br>2021 ~ now
+</span>
 
 🔥 Other Experience
 ------
@@ -190,5 +224,8 @@ Contact: ykjung.rokafa@gmail.com
 
 * Fall 2015: Research Assistant
   * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+  * Duties included: Merging pull reque
+  
+💻 Technical Skills
+------
+* Python (with TensorFlow and PyTorch), MATLAB, C, JAVA, $$LATEX$$, PHP, HTML, MongoDB, SQL, Android Programming (Kotlin), Prolog, Lisp
