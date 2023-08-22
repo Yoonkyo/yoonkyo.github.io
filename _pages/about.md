@@ -25,7 +25,7 @@ Contact: ykjung.rokafa@gmail.com
 
 * B.S. in System Engineering, Republic of Korea Air force Academy (ROKAFA)
 <span style="font-size:80%">
-<br>Thesis: Improvement of Bus Booking Mobile Application and Efficiency Validation
+<br>Thesis: Efficiency Validation and Improvement of Bus Booking Mobile Application
 <br>Mar. 2013 ‑ Feb. 2017
 </span>
 
@@ -129,6 +129,12 @@ Contact: ykjung.rokafa@gmail.com
 <span style="font-size:80%">
 <br>"AI-based Smart Flight Scheduling System"
 <br>Creative and Innovation Idea Hackathon, R.O.K Air Force, 2021.
+</span>
+
+* Best Student Paper Award
+<span style="font-size:80%">
+<br>"Efficiency Validation and Improvement of Bus Booking Mobile Application"
+<br>Student Paper Contest, KOPOMS, 2016.
 </span>
 
 🗄 Research Projects
