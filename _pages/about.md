@@ -16,60 +16,67 @@ Contact: ykjung.rokafa@gmail.com
 
 🏫 Education
 ------
-* M.S. in Computer Science and Engineering, Seoul National University
+* M.S. in Computer Science and Engineering, Seoul National University (SNU)
 <span style="font-size:80%">
 <br>Thesis: Consistency Analysis between Privacy Policy and Mobile Application
 <br>Advisor: [Ted "Taekyeong" Kwon](https://mmlab.snu.ac.kr/)
 <br>Mar. 2019 ‑ Feb. 2021
 </span>
 
-* B.S. in System Engineering, Republic of Korea Air force Academy, 2017
+* B.S. in System Engineering, Republic of Korea Air force Academy (ROKAFA)
 <span style="font-size:80%">
 <br>Thesis: Improvement of Bus Booking Mobile Application and Efficiency Validation
 <br>Mar. 2013 ‑ Feb. 2017
 </span>
 
-👨‍💼 Work experience
+👨‍💼 Work Experience
 ------
-* Jan. 2023 - now: Department Chair
+* Department Chair
 <span style="font-size:80%">
 <br>Department of Computer Science, ROKAFA
+<br>Jan. 2023 - now
 </span>
 
 
-* Apr. 2022 - now: Assistent Professor
+* Assistent Professor
 <span style="font-size:80%">
 <br>Department of Computer Science, ROKAFA
+<br>Apr. 2022 - now
 </span>
 
 
-* Feb. 2021 - now: Researcher
+* Researcher
 <span style="font-size:80%">
 <br>Aerospace Force Weapon Systems Laboratory, ROKAFA
+<br>Feb. 2021 - now
 </span>
 
 
-* Dec. 2021 - Dec. 2022: Project Management Officer
+* Project Management Officer
 <span style="font-size:80%">
 <br>Aerospace Research Institute, ROKAFA
+<br>Dec. 2021 - Dec. 2022
 </span>
 
 
-* Feb. 2021 - Mar. 2022: Full-time Lecturer
+* Full-time Lecturer
 <span style="font-size:80%">
 <br>Department of Computer Science, ROKAFA
+<br>Feb. 2021 - Mar. 2022
 </span>
 
 
-* Apr. 2018 - Jan. 2019: Radar Maintenance officer
+* Radar Maintenance officer
 <span style="font-size:80%">
 <br>Air Defense Missile Command, ROKAF
+<br>Apr. 2018 - Jan. 2019
 </span>
 
 
-* Mar. 2017 - Mar. 2018: Recruit Training Officer
+* Recruit Training Officer
 <span style="font-size:80%">
 <br>Education and Training Command, ROKAF
+<br>Mar. 2017 - Mar. 2018
 </span>
 
 📝 Publications
@@ -87,39 +94,74 @@ Contact: ykjung.rokafa@gmail.com
 
 📖 Teaching
 ------
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Assistant Professor
+<span style="font-size:80%">
+<br>Republic of Korea Air Force Academy
+<br>2023 Fall: Data Communication, Hacking and Defense, Convergence Capstone Design
+<br>2023 Spring: Network Programming, Embedded System, Convergence Capstone Design
+<br>2022 Fall: Hacking and Defense
+<br>2022 Spring: Embedded System
+</span>
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Full-time Lecturer
+<span style="font-size:80%">
+<br>Republic of Korea Air Force Academy
+<br>2021 Fall: Software Programming, Data Structure, Hacking and Defense
+<br>2021 Spring: Software Programming, Embedded System
+</span>
+
+* Teaching Assistant
+<span style="font-size:80%">
+<br>Seoul National University
+<br>2020 Fall: Internet Security and Privacy
+</span>
 
 🎖 Honors and Awards
 ------
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Best Paper Award
+<span style="font-size:80%">
+<br>"Development of Multi-copter Propeller Distortion Measurement Device Using Three-side Image Analysis"
+<br>Korea Computer Congress, KIISE, 2022.
+</span>
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+
+* Excellence Award
+<span style="font-size:80%">
+<br>"AI-based Smart Flight Scheduling System"
+<br>Creative and Innovation Idea Hackathon, R.O.K Air Force, 2021.
+</span>
 
 🗄 Research Projects
 ------
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Performance Improvement of T-50 Series by the Flight Education and Training System
+<span style="font-size:80%">
+<br>Agency for Defense Development (ADD)
+<br>Apr. 2023 - Jul. 2023
+</span>
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Development and Implementation of R.O.K Air Force Live-Virtual-Constructive(LVC) Architecture
+<span style="font-size:80%">
+<br>Korea Aerospace Industries (KAI)
+<br>Dec. 2021 - Dec. 2022
+</span>
+
+* Versatile Network System Architecture for Multi-dimensional Diversity
+<span style="font-size:80%">
+<br>Institute for Information & Communication Technology Planning & Evaluation (IITP)
+<br>Jan. 2020 - Dec. 2020
+</span>
+
+* Smartcampus: A Research on Localization Scheme based on Multiple Sensors
+<span style="font-size:80%">
+<br>Samsung Electronics
+<br>May. 2019 - Apr. 2020
+</span>
+
+* A Research on Security Scheme for Interconnection of Heterogeneous Networks
+<span style="font-size:80%">
+<br>Electronics and Telecommunications Research Institute (ETRI)
+<br>Jun. 2019 - Oct. 2019
+</span>
 
 💼 Academic Activities
 ------
