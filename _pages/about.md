@@ -8,8 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-I am a tenure-track assistant professor in the [Department of Computer Science](https://rokaf.airforce.mil.kr/afa/1424/subview.do) at [Republic of Korea Air force Academy](https://rokaf.airforce.mil.kr/afa/index.do). Currently, I am looking for Ph.D positions to continue my career for academic achievements. **My graduate study will be supported by the scholarship of R.O.K Ministry of National Defense.** \\
-I received my M.S. in [Computer Science and Engineering](https://cse.snu.ac.kr/) at [Seoul National University](https://www.snu.ac.kr/), advised by [Ted "Taekyeong" Kwon](https://mmlab.snu.ac.kr/) and B.S. in System Engineering at Republic of Korea Air force Academy. My research interests focus on machine learning-driven networked systems and future wireless networks.
+I am a tenure-track assistant professor in the [Department of Computer Science](https://rokaf.airforce.mil.kr/afa/1424/subview.do) at [Republic of Korea Air Force Academy](https://rokaf.airforce.mil.kr/afa/index.do). Currently, I am looking for Ph.D positions to continue my career for academic achievements. **My graduate study will be supported by the scholarship of R.O.K Ministry of National Defense.** \\
+I received my M.S. in [Computer Science and Engineering](https://cse.snu.ac.kr/) at [Seoul National University](https://www.snu.ac.kr/), advised by [Ted "Taekyeong" Kwon](https://mmlab.snu.ac.kr/) and B.S. in System Engineering at Republic of Korea Air force Academy. My research interests focus on privacy-preserving network, machine learning-driven networked systems and future wireless networks.
 
 Here is my [CV](/cv_yoonkyo.pdf) for more info! \\
 Contact: ykjung.rokafa@gmail.com
@@ -37,7 +37,7 @@ Contact: ykjung.rokafa@gmail.com
 <br>Jan. 2023 - now
 </span>
 
-* Assistent Professor
+* Assistant Professor
 <span style="font-size:80%">
 <br>Department of Computer Science, ROKAFA
 <br>Apr. 2022 - now
@@ -183,37 +183,16 @@ Contact: ykjung.rokafa@gmail.com
 <br>Jun. 2019 - Oct. 2019
 </span>
 
-💼 Memberships & Professional Societies
+💼 Professional Memberships
 ------
-* 한국컴퓨터정보학회 정회원
-<span style="font-size:80%">
-<br>2023 ~ now
-</span>
+* Member, Chungbuk AI-SW Education Sharing Council
+* Member, Korea Society of Computer Information (KSCI)
+* Member, Korean Institute of Information Technology (KIIT)
+* Member, Korea Institute of information and Communication Engineering (KIICE)
+* Member, Korea Convergence Technology Research Society (KTCRS)
+* Lifetime Member, Korea Information Processing Society (KIPS)
+* Lifetime Member, Korean Institute of Information Scientists and Engineers (KIISE)
 
-* 한국정보기술학회 정회원
-<span style="font-size:80%">
-<br>2023 ~ now
-</span>
-
-- 한국정보통신학회 정회원
-<span style="font-size:80%">
-<br>2022 ~ now
-</span>
-
-- 한국융합기술연구학회 정회원
-<span style="font-size:80%">
-<br>2022 ~ now
-</span>
-
-- 한국정보처리학회 종신회원
-<span style="font-size:80%">
-<br>2022 ~ now
-</span>
-
-* 한국정보과학회 종신회원
-<span style="font-size:80%">
-<br>2021 ~ now
-</span>
 
 🔥 Other Experience
 ------
@@ -228,4 +207,4 @@ Contact: ykjung.rokafa@gmail.com
   
 💻 Technical Skills
 ------
-* Python (with TensorFlow and PyTorch), MATLAB, C, JAVA, $$LATEX$$, PHP, HTML, MongoDB, SQL, Android Programming (Kotlin), Prolog, Lisp
+* Python (with TensorFlow and PyTorch), MATLAB, C, JAVA, {\LATEX}, PHP, HTML, MongoDB, SQL, Android Programming (Kotlin), Prolog, Lisp
