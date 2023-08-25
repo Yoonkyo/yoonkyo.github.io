@@ -64,7 +64,6 @@ Contact: ykjung.rokafa@gmail.com
 * Research Assistant
 <span style="font-size:80%">
 <br>Department of Computer Science and Engineering, SNU
-<br>Samsung Electronics SNU R&D Center
 <br>Feb. 2019 - Jan. 2021
 </span>
 
@@ -196,15 +195,18 @@ Contact: ykjung.rokafa@gmail.com
 
 🔥 Other Experience
 ------
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Founder and Instructor, ROKAFA programming club, Mar. 2022 - now
+* Researcher, Samsung Electronics SNU R&D Center, Feb. 2019 - Jun. 2020
+* Reviewer, 11th International Conference on ICT Convergence 2020, Jeju, Korea.
+* Program Chair, eLearning Competition, Global IT Challenge 2019, Busan, Korea.
+* Technical Advisor, Global IT Challenge, RI Korea, Mar. 2019 - Feb. 2020
+* 2th Battalion Cadet Commander, Oct. 2016 ‑ Feb. 2017
+* 7th Squadron Cadet Commander, Jun. 2016 ‑ Oct. 2016
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull reque
-  
 💻 Technical Skills
 ------
-* Python (with TensorFlow and PyTorch), MATLAB, C, JAVA, {\LATEX}, PHP, HTML, MongoDB, SQL, Android Programming (Kotlin), Prolog, Lisp
+* Languages: Python, C, C++, JavaScript, SQL, JAVA, Kotlin, GO
+* Technologies: Git, $\LaTeX$, MySQL, NoSQL(MongoDB), HTML/CSS, Docker
+* Platforms: Linux(Ubuntu), Windows, Nginx, AWS, Oracle cloud, Azure
+* Frameworks: TensorFlow/Keras, Pytorch
+
