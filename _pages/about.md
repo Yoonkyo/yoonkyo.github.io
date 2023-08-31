@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 I am a tenure-track assistant professor in the [Department of Computer Science](https://rokaf.airforce.mil.kr/afa/1424/subview.do) at [Republic of Korea Air Force Academy](https://rokaf.airforce.mil.kr/afa/index.do). Currently, I am looking for Ph.D positions to continue my career for academic achievements. **My graduate study will be supported by the scholarship of R.O.K Ministry of National Defense.** \\
-I received my M.S. in [Computer Science and Engineering](https://cse.snu.ac.kr/) at [Seoul National University](https://www.snu.ac.kr/), advised by [Ted "Taekyeong" Kwon](https://mmlab.snu.ac.kr/) and B.S. in System Engineering at Republic of Korea Air force Academy. My research interests focus on privacy-preserving network, machine learning-driven networked systems and future wireless networks.
+I received my M.S. in [Computer Science and Engineering](https://cse.snu.ac.kr/) at [Seoul National University](https://www.snu.ac.kr/), advised by [Ted "Taekyeong" Kwon](https://mmlab.snu.ac.kr/) and B.S. in System Engineering at Republic of Korea Air Force Academy. My research interests focus on privacy-preserving network, machine learning-driven networked systems and future wireless networks.
 
 Here is my [CV](/cv_yoonkyo.pdf) for more info! \\
 Contact: ykjung.rokafa@gmail.com
@@ -195,9 +195,10 @@ Contact: ykjung.rokafa@gmail.com
 
 🔥 Other Experience
 ------
-* Founder and Instructor, ROKAFA programming club, Mar. 2022 - now
-* Researcher, Samsung Electronics SNU R&D Center, Feb. 2019 - Jun. 2020
+* Founder & Instructor, ROKAFA Programming Club, Mar. 2022 - now
+* Reviewer, Asia-pacific Journal of Convergent Research Interchange, 2022.
 * Reviewer, 11th International Conference on ICT Convergence 2020, Jeju, Korea.
+* Researcher, Samsung Electronics SNU R&D Center, Feb. 2019 - Jun. 2020
 * Program Chair, eLearning Competition, Global IT Challenge 2019, Busan, Korea.
 * Technical Advisor, Global IT Challenge, RI Korea, Mar. 2019 - Feb. 2020
 * 2th Battalion Cadet Commander, Oct. 2016 ‑ Feb. 2017
@@ -206,7 +207,7 @@ Contact: ykjung.rokafa@gmail.com
 💻 Technical Skills
 ------
 * Languages: Python, C, C++, JavaScript, SQL, JAVA, Kotlin, GO
-* Technologies: Git, $\LaTeX$, MySQL, NoSQL(MongoDB), HTML/CSS, Docker
+* Technologies: Docker, Git, $\LaTeX$, MySQL, NoSQL(MongoDB), HTML/CSS
 * Platforms: Linux(Ubuntu), Windows, Nginx, AWS, Oracle cloud, Azure
 * Frameworks: TensorFlow/Keras, Pytorch
 
