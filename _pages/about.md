@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 I am a tenure-track assistant professor in the [Department of Computer Science](https://rokaf.airforce.mil.kr/afa/1424/subview.do) at [Republic of Korea Air Force Academy](https://rokaf.airforce.mil.kr/afa/index.do). Currently, I am looking for Ph.D positions to continue my career for academic achievements. **My graduate study will be supported by the scholarship of R.O.K Ministry of National Defense.** \\
-I received my M.S. in [Computer Science and Engineering](https://cse.snu.ac.kr/) at [Seoul National University](https://www.snu.ac.kr/), advised by [Ted "Taekyeong" Kwon](https://mmlab.snu.ac.kr/) and B.S. in System Engineering at Republic of Korea Air Force Academy. My research interests focus on privacy-preserving network, machine learning-driven networked systems and future wireless networks.
+I received my M.S. in [Computer Science and Engineering](https://cse.snu.ac.kr/) at [Seoul National University](https://www.snu.ac.kr/), advised by [Ted "Taekyeong" Kwon](https://mmlab.snu.ac.kr/) and B.S. in System Engineering at Republic of Korea Air Force Academy. My research interests focus on privacy-preserving networks, machine learning-driven networked systems and future wireless networks.
 
 Here is my [CV](/cv_yoonkyo.pdf) for more info! \\
 Contact: ykjung.rokafa@gmail.com
