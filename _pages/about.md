@@ -82,6 +82,9 @@ Contact: ykjung.rokafa@gmail.com
 📝 Publications
 ------
 * Journal
+  * __Yoonkyo Jung__, Jinyi Yoon, "A Survey from Federated Learning to Split Learning", IEEE Access(To be submitted)
+  * Byungho Jung, __Yoonkyo Jung__, Namkyu Lim, "Analysis and Prioritization of the Performance Improvement Evaluation Index for
+Air Force Advanced Trainers(T‑50 Series) ", ournal of the Korean Society of Supply Chain Management(Under Review)
   * __Yoonkyo Jung__, "Reliability Analysis of Privacy Policies Using Android Static Analysis", KIPS Transactions on Computer and Communication Systems, Vol.12, No.1, 2023.
   * Jaesung Sim, __Yoonkyo Jung__, "Design of Surveillance Device Control System Using Audio Beamforming", Journal of Military Science Research, Vol.73, No.2, 2022.
   * __Yoonkyo Jung__, "Development and Performance Evaluation of Chatbot System for Office Automation", Asia-pacific Journal of Convergent Research Interchange, Vol.8, No.10, 2022.
@@ -89,7 +92,7 @@ Contact: ykjung.rokafa@gmail.com
 * Conference
   * Songhyeon Kim, Jaesung Sim, __Yoonkyo Jung__, "Development of Multi-copter Propeller Distortion Measurement Device Using Three-side Image Analysis", KIISE Korea Computer Congress, 2022.
   * __Yoonkyo Jung__, "Reliability Analysis of Privacy Policies Based on Android Static Analysis", Annual Spring Conference of KIPS, 2022.
-  * Junsoo Park, Youngjun kim, __Yoonkyo Jung__. "A Study on the Development and Performance Improvement of Chatbot for Office Automation", KIICE Spring Conference, 2022.
+  * Junsoo Park, Youngjun Kim, __Yoonkyo Jung__. "A Study on the Development and Performance Improvement of Chatbot for Office Automation", KIICE Spring Conference, 2022.
   * Sungmin Lee, __Yoonkyo Jung__, Jaehyun Lee, Byoungyoung Lee, Ted "Taekyoung" Kwon, "Android Remote Unlocking Service using Synthetic Password: A Hardware Security-preserving Approach", IEEE Secure Development Conference (SecDev), 2021.
 
 📖 Teaching
