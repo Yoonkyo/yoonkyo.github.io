@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 I am a tenure-track assistant professor in the [Department of Computer Science](https://rokaf.airforce.mil.kr/afa/1424/subview.do) at [Republic of Korea Air Force Academy](https://rokaf.airforce.mil.kr/afa/index.do). Currently, I am looking for Ph.D positions to continue my career for academic achievements. **My graduate study will be supported by the scholarship of R.O.K Ministry of National Defense.** \\
-I received my M.S. in [Computer Science and Engineering](https://cse.snu.ac.kr/) at [Seoul National University](https://www.snu.ac.kr/), advised by [Ted "Taekyeong" Kwon](https://mmlab.snu.ac.kr/) and B.S. in System Engineering at Republic of Korea Air Force Academy. My research interests focus on privacy-preserving networks, machine learning-driven networked systems and future wireless networks.
+I received my M.S. in [Computer Science and Engineering](https://cse.snu.ac.kr/) at [Seoul National University](https://www.snu.ac.kr/), advised by [Ted "Taekyeong" Kwon](https://mmlab.snu.ac.kr/) and B.S. in System Engineering at Republic of Korea Air Force Academy. My research interests focus on privacy-preserving networks, machine learning-driven networked systems, and future wireless networks.
 
 Here is my [CV](/cv_yoonkyo.pdf) for more info! \\
 Contact: ykjung.rokafa@gmail.com
@@ -82,9 +82,9 @@ Contact: ykjung.rokafa@gmail.com
 📝 Publications
 ------
 * Journal
-  * __Yoonkyo Jung__, Jinyi Yoon, "A Survey from Federated Learning to Split Learning", IEEE Access(To be submitted)
+  * __Yoonkyo Jung__, Jinyi Yoon, "A Survey from Federated Learning to Split Learning", IEEE Access (To be submitted)
   * Byungho Jung, __Yoonkyo Jung__, Namkyu Lim, "Analysis and Prioritization of the Performance Improvement Evaluation Index for
-Air Force Advanced Trainers(T‑50 Series) ", ournal of the Korean Society of Supply Chain Management(Under Review)
+Air Force Advanced Trainers (T‑50 Series) ", Journal of the Korean Society of Supply Chain Management (Under Review)
   * __Yoonkyo Jung__, "Reliability Analysis of Privacy Policies Using Android Static Analysis", KIPS Transactions on Computer and Communication Systems, Vol.12, No.1, 2023.
   * Jaesung Sim, __Yoonkyo Jung__, "Design of Surveillance Device Control System Using Audio Beamforming", Journal of Military Science Research, Vol.73, No.2, 2022.
   * __Yoonkyo Jung__, "Development and Performance Evaluation of Chatbot System for Office Automation", Asia-pacific Journal of Convergent Research Interchange, Vol.8, No.10, 2022.
@@ -155,6 +155,12 @@ Air Force Advanced Trainers(T‑50 Series) ", ournal of the Korean Society of Su
 
 🗄 Research Projects
 ------
+* Concept of Optimal Requirements for Air Force Future Basic Trainers
+<span style="font-size:80%">
+<br>Korea Aerospace Industries (KAI)
+<br>Sep. 2023 - Apr. 2024
+</span>
+
 * Performance Improvement of T-50 Series by the Flight Education and Training System
 <span style="font-size:80%">
 <br>Agency for Defense Development (ADD)
