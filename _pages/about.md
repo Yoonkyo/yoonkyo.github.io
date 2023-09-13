@@ -188,7 +188,7 @@ Air Force Advanced Trainers (T‑50 Series) ", Journal of the Korean Society of 
 * A Research on Security Scheme for Interconnection of Heterogeneous Networks
 <span style="font-size:80%">
 <br>Electronics and Telecommunications Research Institute (ETRI)
-<br>Jun. 2019 - Oct. 2019
+<br>Jun. 2019 - Nov. 2019
 </span>
 
 💼 Professional Memberships
