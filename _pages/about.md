@@ -82,7 +82,7 @@ Contact: ykjung.rokafa@gmail.com
 📝 Publications
 ------
 * Journal
-  * __Yoonkyo Jung__, Jinyi Yoon, "A Survey from Federated Learning to Split Learning", IEEE Access (To be submitted)
+  * __Yoonkyo Jung__, Jinyi Yoon, "An Overview of Federated Learning and Model Aggregation Approaches", KIPS Transactions on Software and Data Engineering (Under Review)
   * Byungho Jung, __Yoonkyo Jung__, Namkyu Lim, "Analysis and Prioritization of the Performance Improvement Evaluation Index for
 Air Force Advanced Trainers (T‑50 Series) ", Journal of the Korean Society of Supply Chain Management (Under Review)
   * __Yoonkyo Jung__, "Reliability Analysis of Privacy Policies Using Android Static Analysis", KIPS Transactions on Computer and Communication Systems, Vol.12, No.1, 2023.
@@ -158,7 +158,7 @@ Air Force Advanced Trainers (T‑50 Series) ", Journal of the Korean Society of 
 * Concept of Optimal Requirements for Air Force Future Basic Trainers
 <span style="font-size:80%">
 <br>Korea Aerospace Industries (KAI)
-<br>Sep. 2023 - Apr. 2024
+<br>Oct. 2023 - Jun. 2024
 </span>
 
 * Performance Improvement of T-50 Series by the Flight Education and Training System
