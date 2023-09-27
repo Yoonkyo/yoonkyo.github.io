@@ -34,19 +34,19 @@ Contact: ykjung.rokafa@gmail.com
 * Department Chair
 <span style="font-size:80%">
 <br>Department of Computer Science, ROKAFA
-<br>Jan. 2023 - now
+<br>Jan. 2023 - present
 </span>
 
 * Assistant Professor
 <span style="font-size:80%">
 <br>Department of Computer Science, ROKAFA
-<br>Apr. 2022 - now
+<br>Apr. 2022 - present
 </span>
 
 * Researcher
 <span style="font-size:80%">
 <br>Aerospace Force Weapon Systems Laboratory, ROKAFA
-<br>Feb. 2021 - now
+<br>Feb. 2021 - present
 </span>
 
 * Project Management Officer
@@ -204,7 +204,7 @@ Air Force Advanced Trainers (T‑50 Series) ", Journal of the Korean Society of 
 
 🔥 Other Experience
 ------
-* Founder & Instructor, ROKAFA Programming Club, Mar. 2022 - now
+* Founder & Instructor, ROKAFA Programming Club, Mar. 2022 - present
 * Reviewer, Asia-pacific Journal of Convergent Research Interchange, 2022.
 * Reviewer, 11th International Conference on ICT Convergence 2020, Jeju, Korea.
 * Researcher, Samsung Electronics SNU R&D Center, Feb. 2019 - Jun. 2020
