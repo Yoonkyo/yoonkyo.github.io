@@ -160,7 +160,7 @@ Contact: ykjung.rokafa@gmail.com
 <br>Oct. 2023 - Jun. 2024
 </span>
 
-* Performance Improvement of T-50 Series by the Flight Education and Training System
+* Performance Improvement of Air Force Advanced Trainers (T-50 Series)
 <span style="font-size:80%">
 <br>Agency for Defense Development (ADD)
 <br>Apr. 2023 - Jul. 2023
