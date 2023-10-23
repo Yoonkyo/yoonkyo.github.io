@@ -37,6 +37,12 @@ Contact: ykjung.rokafa@gmail.com
 <br>Jan. 2023 - present
 </span>
 
+* Deputy Director
+<span style="font-size:80%">
+<br>Aerospace Force Weapon Systems Laboratory, ROKAFA
+<br>Jan. 2023 - present
+</span>
+
 * Assistant Professor
 <span style="font-size:80%">
 <br>Department of Computer Science, ROKAFA
