@@ -23,7 +23,7 @@ Contact: ykjung.rokafa@gmail.com
 <br>Mar. 2019 ‑ Feb. 2021
 </span>
 
-* B.S. in System Engineering, Republic of Korea Air force Academy (ROKAFA)
+* B.S. in System Engineering, Republic of Korea Air Force Academy (ROKAFA)
 <span style="font-size:80%">
 <br>Thesis: Efficiency Validation and Improvement of Bus Booking Mobile Application
 <br>Mar. 2013 ‑ Feb. 2017
