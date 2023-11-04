@@ -126,7 +126,7 @@ Contact: ykjung.rokafa@gmail.com
 
 🎖️ Honors and Awards
 ------
-* Full Scholarship for Graduate Studies (Ph.D)
+* Full Scholarship for Graduate Studies (Ph.D.)
 <span style="font-size:80%">
 <br>R.O.K Ministry of National Defense
 <br>Sep 2024 ‑ 
@@ -144,7 +144,7 @@ Contact: ykjung.rokafa@gmail.com
 <br>Creative and Innovation Idea Hackathon, Republic of Korea Air Force (ROKAF), 2021.
 </span>
 
-* Full Scholarship for Graduate Studies (M.S)
+* Full Scholarship for Graduate Studies (M.S.)
 <span style="font-size:80%">
 <br>R.O.K Ministry of National Defense
 <br>Mar. 2019 ‑ Feb. 2021
