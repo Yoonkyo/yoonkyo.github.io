@@ -128,8 +128,14 @@ Contact: ykjung.rokafa@gmail.com
 ------
 * Full Scholarship for Graduate Studies (Ph.D.)
 <span style="font-size:80%">
-<br>R.O.K Ministry of National Defense
+<br>Ministry of National Defense, Republic of Korea
 <br>Sep 2024 ‑ 
+</span>
+
+* Commendation of Lieutenant General
+<span style="font-size:80%">
+<br>"Distinguished Service in Graduation Ceremony"
+<br>Superintendent, Republic of Korea Air Force Academy (ROKAFA), 2023.
 </span>
 
 * Best Paper Award
@@ -146,7 +152,7 @@ Contact: ykjung.rokafa@gmail.com
 
 * Full Scholarship for Graduate Studies (M.S.)
 <span style="font-size:80%">
-<br>R.O.K Ministry of National Defense
+<br>Ministry of National Defense, Republic of Korea
 <br>Mar. 2019 ‑ Feb. 2021
 </span>
 
