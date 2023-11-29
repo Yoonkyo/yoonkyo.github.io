@@ -190,13 +190,13 @@ Contact: ykjung.rokafa@gmail.com
 <br>Jan. 2020 - Dec. 2020
 </span>
 
-* Smartcampus: A Research on Localization Scheme based on Multiple Sensors
+* Smartcampus: Research on Localization Scheme based on Multiple Sensors
 <span style="font-size:80%">
 <br>Samsung Electronics
 <br>May. 2019 - Apr. 2020
 </span>
 
-* A Research on Security Scheme for Interconnection of Heterogeneous Networks
+* Research on Security Scheme for Interconnection of Heterogeneous Networks
 <span style="font-size:80%">
 <br>Electronics and Telecommunications Research Institute (ETRI)
 <br>Jun. 2019 - Nov. 2019
