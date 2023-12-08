@@ -8,8 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-I am a tenure-track assistant professor in the [Department of Computer Science](https://rokaf.airforce.mil.kr/afa/1424/subview.do) at [Republic of Korea Air Force Academy](https://rokaf.airforce.mil.kr/afa/index.do). Currently, I am looking for Ph.D. positions to continue my career for academic achievements. **My graduate study will be supported by the scholarship of R.O.K Ministry of National Defense.** \\
-I received my M.S. in [Computer Science and Engineering](https://cse.snu.ac.kr/) from [Seoul National University](https://www.snu.ac.kr/), advised by [Ted "Taekyeong" Kwon](https://mmlab.snu.ac.kr/) and B.S. in System Engineering from Republic of Korea Air Force Academy. My research interests focus on privacy-preserving networks, machine learning-driven networked systems, user privacy, computer security, and future wireless networks.
+I am a tenure-track assistant professor in the [Department of Computer Science](https://rokaf.airforce.mil.kr/afa/1424/subview.do) at the [Republic of Korea Air Force Academy](https://rokaf.airforce.mil.kr/afa/index.do). Currently, I am looking for a Ph.D. position to continue my career for academic achievements. **My graduate study will be supported by the scholarship of R.O.K Ministry of National Defense.** \\
+I received my M.S. in [Computer Science and Engineering](https://cse.snu.ac.kr/) from [Seoul National University](https://www.snu.ac.kr/), advised by [Ted "Taekyeong" Kwon](https://mmlab.snu.ac.kr/) and B.S. in System Engineering from the Republic of Korea Air Force Academy. My research interests focus on privacy-preserving networks, machine learning-driven networked systems, user privacy, computer security, and future wireless networks.
 
 Here is my [CV](/cv_yoonkyo.pdf) for more info! \\
 Contact: ykjung.rokafa@gmail.com
@@ -88,17 +88,17 @@ Contact: ykjung.rokafa@gmail.com
 📝 Publications
 ------
 * Journal
-  * __Yoonkyo Jung__, JinYi Yoon, "A Survey on Model Aggregation Approaches in Federated Learning", IEEE Access (To be submitted)
-  * Byungho Jung, Seong In Hwang, __Yoonkyo Jung__, Namkyu Lim, "Analysis of the Performance Improvement Evaluation Index of Air Force Advanced Trainers (T-50 Series) and Deriving Priorities", Journal of the Korean Society of Supply Chain Management, Vol.23, No.2, 2023.
-  * __Yoonkyo Jung__, "Reliability Analysis of Privacy Policies Using Android Static Analysis", KIPS Transactions on Computer and Communication Systems, Vol.12, No.1, 2023.
-  * Jaesung Sim, __Yoonkyo Jung__, "Design of Surveillance Device Control System Using Audio Beamforming", Journal of Military Science Research, Vol.73, No.2, 2022.
-  * __Yoonkyo Jung__, "Development and Performance Evaluation of Chatbot System for Office Automation", Asia-pacific Journal of Convergent Research Interchange, Vol.8, No.10, 2022.
+  * __Yoonkyo Jung__, JinYi Yoon, "A Survey on Model Aggregation Approaches in Federated Learning," IEEE Access (To be submitted)
+  * Byungho Jung, Seong In Hwang, __Yoonkyo Jung__, Namkyu Lim, "Analysis of the Performance Improvement Evaluation Index of Air Force Advanced Trainers (T-50 Series) and Deriving Priorities," Journal of the Korean Society of Supply Chain Management, Vol.23, No.2, 2023.
+  * __Yoonkyo Jung__, "Reliability Analysis of Privacy Policies Using Android Static Analysis," KIPS Transactions on Computer and Communication Systems, Vol.12, No.1, 2023.
+  * Jaesung Sim, __Yoonkyo Jung__, "Design of Surveillance Device Control System Using Audio Beamforming," Journal of Military Science Research, Vol.73, No.2, 2022.
+  * __Yoonkyo Jung__, "Development and Performance Evaluation of Chatbot System for Office Automation," Asia-Pacific Journal of Convergent Research Interchange, Vol.8, No.10, 2022.
 
 * Conference
-  * Songhyeon Kim, Jaesung Sim, __Yoonkyo Jung__, "Development of Multi-copter Propeller Distortion Measurement Device Using Three-side Image Analysis", KIISE Korea Computer Congress, 2022.
-  * __Yoonkyo Jung__, "Reliability Analysis of Privacy Policies Based on Android Static Analysis", Annual Spring Conference of KIPS, 2022.
-  * Junsoo Park, Youngjun Kim, __Yoonkyo Jung__. "A Study on the Development and Performance Improvement of Chatbot for Office Automation", KIICE Spring Conference, 2022.
-  * Sungmin Lee, __Yoonkyo Jung__, Jaehyun Lee, Byoungyoung Lee, Ted "Taekyoung" Kwon, "Android Remote Unlocking Service using Synthetic Password: A Hardware Security-preserving Approach", IEEE Secure Development Conference (SecDev), 2021.
+  * Songhyeon Kim, Jaesung Sim, __Yoonkyo Jung__, "Development of Multi-copter Propeller Distortion Measurement Device Using Three-side Image Analysis," KIISE Korea Computer Congress, 2022.
+  * __Yoonkyo Jung__, "Reliability Analysis of Privacy Policies Based on Android Static Analysis," Annual Spring Conference of KIPS, 2022.
+  * Junsoo Park, Youngjun Kim, __Yoonkyo Jung__. "A Study on the Development and Performance Improvement of Chatbot for Office Automation," KIICE Spring Conference, 2022.
+  * Sungmin Lee, __Yoonkyo Jung__, Jaehyun Lee, Byoungyoung Lee, Ted "Taekyoung" Kwon, "Android Remote Unlocking Service using Synthetic Password: A Hardware Security-preserving Approach," IEEE Secure Development Conference (SecDev), 2021.
 
 📖 Teaching
 ------
@@ -207,7 +207,7 @@ Contact: ykjung.rokafa@gmail.com
 * Member, Chungbuk AI-SW Education Sharing Council
 * Member, Korea Society of Computer Information (KSCI)
 * Member, Korean Institute of Information Technology (KIIT)
-* Member, Korea Institute of information and Communication Engineering (KIICE)
+* Member, Korea Institute of Information and Communication Engineering (KIICE)
 * Member, Korea Convergence Technology Research Society (KTCRS)
 * Lifetime Member, Korea Information Processing Society (KIPS)
 * Lifetime Member, Korean Institute of Information Scientists and Engineers (KIISE)
@@ -216,12 +216,12 @@ Contact: ykjung.rokafa@gmail.com
 🔥 Other Experience
 ------
 * Founder & Instructor, ROKAFA Programming Club, Mar. 2022 - present
-* Reviewer, Asia-pacific Journal of Convergent Research Interchange, 2022.
+* Reviewer, Asia-Pacific Journal of Convergent Research Interchange, 2022.
 * Reviewer, 11th International Conference on ICT Convergence 2020, Jeju, Korea.
 * Researcher, Samsung Electronics SNU R&D Center, Feb. 2019 - Jun. 2020
 * Program Chair, eLearning Competition, Global IT Challenge 2019, Busan, Korea.
 * Technical Advisor, Global IT Challenge, RI Korea, Mar. 2019 - Feb. 2020
-* 2th Battalion Cadet Commander, Oct. 2016 ‑ Feb. 2017
+* 2nd Battalion Cadet Commander, Oct. 2016 ‑ Feb. 2017
 * 7th Squadron Cadet Commander, Jun. 2016 ‑ Oct. 2016
 
 🪖 Military Commission and Promotion
@@ -235,6 +235,6 @@ Contact: ykjung.rokafa@gmail.com
 ------
 * Languages: Python, C, C++, JavaScript, SQL, JAVA, Kotlin, GO
 * Technologies: Docker, Git, $\LaTeX$, MySQL, NoSQL(MongoDB), HTML/CSS
-* Platforms: Linux(Ubuntu), Windows, Nginx, AWS, Oracle cloud, Azure
+* Platforms: Linux(Ubuntu), Windows, Nginx, AWS, Oracle Cloud, Azure
 * Frameworks: TensorFlow/Keras, Pytorch
 
