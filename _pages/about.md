@@ -18,8 +18,8 @@ Contact: ykjung.rokafa@gmail.com
 ------
 * M.S. in Computer Science and Engineering, Seoul National University (SNU)
 <span style="font-size:80%">
-<br>Advisor: [Ted "Taekyeong" Kwon](https://mmlab.snu.ac.kr/)
 <br>Thesis: Consistency Analysis between Privacy Policy and Mobile Application
+<br>Advisor: [Ted "Taekyeong" Kwon](https://mmlab.snu.ac.kr/)
 <br>Mar. 2019 ‑ Feb. 2021
 </span>
 
