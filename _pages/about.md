@@ -31,17 +31,6 @@ Contact: ykjung.rokafa@gmail.com
 
 👨‍💼 Professional Experience
 ------
-* Department Chair
-<span style="font-size:80%">
-<br>Department of Computer Science, ROKAFA
-<br>Jan. 2023 - present
-</span>
-
-* Deputy Director
-<span style="font-size:80%">
-<br>Aerospace Force Weapon Systems Laboratory, ROKAFA
-<br>Jan. 2023 - present
-</span>
 
 * Assistant Professor
 <span style="font-size:80%">
@@ -53,6 +42,18 @@ Contact: ykjung.rokafa@gmail.com
 <span style="font-size:80%">
 <br>Aerospace Force Weapon Systems Laboratory, ROKAFA
 <br>Feb. 2021 - present
+</span>
+
+* Department Chair
+<span style="font-size:80%">
+<br>Department of Computer Science, ROKAFA
+<br>Jan. 2023 - Jan. 2024
+</span>
+
+* Deputy Director
+<span style="font-size:80%">
+<br>Aerospace Force Weapon Systems Laboratory, ROKAFA
+<br>Jan. 2023 - Jan. 2024
 </span>
 
 * Project Management Officer
