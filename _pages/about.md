@@ -89,7 +89,7 @@ Contact: ykjung.rokafa@gmail.com
 📝 Publications
 ------
 * Journal
-  * __Yoonkyo Jung__, JinYi Yoon, "A Survey on Model Aggregation Approaches in Federated Learning," IEEE Access (To be submitted)
+  * __Yoonkyo Jung__, JinYi Yoon, "A Survey on Model Aggregation Approaches in Federated Learning," To be submitted
   * Byungho Jung, Seong In Hwang, __Yoonkyo Jung__, Namkyu Lim, "Analysis of the Performance Improvement Evaluation Index of Air Force Advanced Trainers (T-50 Series) and Deriving Priorities," Journal of the Korean Society of Supply Chain Management, Vol.23, No.2, 2023.
   * __Yoonkyo Jung__, "Reliability Analysis of Privacy Policies Using Android Static Analysis," KIPS Transactions on Computer and Communication Systems, Vol.12, No.1, 2023.
   * Jaesung Sim, __Yoonkyo Jung__, "Design of Surveillance Device Control System Using Audio Beamforming," Journal of Military Science Research, Vol.73, No.2, 2022.
