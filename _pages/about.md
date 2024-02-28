@@ -106,6 +106,7 @@ Contact: ykjung.rokafa@gmail.com
 * Assistant Professor
 <span style="font-size:80%">
 <br>Republic of Korea Air Force Academy (ROKAFA)
+<br>2024 Spring: Network Programming, Embedded System, Artificial Intelligence
 <br>2023 Fall: Data Communication, Hacking and Defense, Convergence Capstone Design
 <br>2023 Spring: Network Programming, Embedded System, Convergence Capstone Design
 <br>2022 Fall: Hacking and Defense
