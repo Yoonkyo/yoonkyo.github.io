@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am incoming Ph.D. student in the [Department of Electrical and Computer Engineering](https://www.ece.umd.edu/) at the [University of Maryland, College Park](https://www.umd.edu/). I am also a tenure-track assistant professor in the [Department of Computer Science](https://rokaf.airforce.mil.kr/afa/1424/subview.do) at the [Republic of Korea Air Force Academy](https://rokaf.airforce.mil.kr/afa/index.do).  \\
+I am an incoming Ph.D. student in the [Department of Electrical and Computer Engineering](https://www.ece.umd.edu/) at the [University of Maryland, College Park](https://www.umd.edu/). I am also a tenure-track assistant professor in the [Department of Computer Science](https://rokaf.airforce.mil.kr/afa/1424/subview.do) at the [Republic of Korea Air Force Academy](https://rokaf.airforce.mil.kr/afa/index.do).  \\
 I received my M.S. in [Computer Science and Engineering](https://cse.snu.ac.kr/) from [Seoul National University](https://www.snu.ac.kr/), advised by [Ted "Taekyeong" Kwon](https://mmlab.snu.ac.kr/) and B.S. in System Engineering from the Republic of Korea Air Force Academy. My research interests focus on privacy-preserving networks, machine learning-driven networked systems, user privacy, computer security, and future wireless networks.
 
 Here is my [CV](/cv_yoonkyo.pdf) for more info! \\
