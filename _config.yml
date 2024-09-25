@@ -85,7 +85,7 @@ author:
   bio              : "Ph.D. Student @UMD"
   location         : "United States"
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=jCWI3LUAAAAJ&hl=en"
+  googlescholar    :  # "https://scholar.google.com/citations?user=jCWI3LUAAAAJ&hl=en"
   email            : "ykjung@umd.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
