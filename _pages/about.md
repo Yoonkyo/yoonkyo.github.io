@@ -47,7 +47,7 @@ Contact: ykjung@umd.edu
 * Researcher
 <span style="font-size:80%">
 <br>Aerospace Force Weapon Systems Laboratory, ROKAFA
-<br>Feb. 2021 - present
+<br>Feb. 2021 - Jul. 2024
 </span>
 
 * Department Chair
@@ -136,7 +136,7 @@ Contact: ykjung@umd.edu
 * Full Scholarship for Graduate Studies (Ph.D.)
 <span style="font-size:80%">
 <br>Ministry of National Defense, Republic of Korea
-<br>Sep 2024 ‑ 
+<br>Aug. 2024 ‑ Jul. 2027
 </span>
 
 * Commendation of Lieutenant General
@@ -220,7 +220,7 @@ Contact: ykjung@umd.edu
 
 🔥 Other Experience
 ------
-* Founder & Instructor, ROKAFA Programming Club, Mar. 2022 - present
+* Founder & Instructor, ROKAFA Programming Club, Mar. 2022 - Jul. 2024
 * Reviewer, Asia-Pacific Journal of Convergent Research Interchange, 2022.
 * Reviewer, 11th International Conference on ICT Convergence 2020, Jeju, Korea.
 * Researcher, Samsung Electronics SNU R&D Center, Feb. 2019 - Jun. 2020
