@@ -12,7 +12,7 @@ I am a Ph.D. student in the [Department of Electrical and Computer Engineering](
 I received my M.S. in [Computer Science and Engineering](https://cse.snu.ac.kr/) from [Seoul National University](https://www.snu.ac.kr/), advised by [Prof. Ted "Taekyeong" Kwon](https://mmlab.snu.ac.kr/) and B.S. in System Engineering from the Republic of Korea Air Force Academy. My research interests focus on privacy-preserving networks, machine learning-driven networked systems, user privacy, computer security, and future wireless networks.
 
 Here is my [CV](/cv_yoonkyo.pdf) for more info! \\
-Contact: ykjung@umd.edu
+Contact: ykjung dot umd.edu
 
 🏫 Education
 ------
@@ -95,6 +95,7 @@ Contact: ykjung@umd.edu
 📝 Publications
 ------
 * Journal
+  * Byungho Jung, __Yoonkyo Jung__, Namkyu Lim, "A Study on the Prioritization of Requirements for the Next Basic Trainer," Korean Journal of Military Art and Science, Vol.80, No.3, 2024.
   * Byungho Jung, Seong In Hwang, __Yoonkyo Jung__, Namkyu Lim, "Analysis of the Performance Improvement Evaluation Index of Air Force Advanced Trainers (T-50 Series) and Deriving Priorities," Journal of the Korean Society of Supply Chain Management, Vol.23, No.2, 2023.
   * __Yoonkyo Jung__, "Reliability Analysis of Privacy Policies Using Android Static Analysis," KIPS Transactions on Computer and Communication Systems, Vol.12, No.1, 2023.
   * Jaesung Sim, __Yoonkyo Jung__, "Design of Surveillance Device Control System Using Audio Beamforming," Journal of Military Science Research, Vol.73, No.2, 2022.
