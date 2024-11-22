@@ -12,7 +12,7 @@ I am a Ph.D. student in the [Department of Electrical and Computer Engineering](
 I received my M.S. in [Computer Science and Engineering](https://cse.snu.ac.kr/) from [Seoul National University](https://www.snu.ac.kr/), advised by [Prof. Ted "Taekyeong" Kwon](https://mmlab.snu.ac.kr/) and B.S. in System Engineering from the Republic of Korea Air Force Academy. My research interests focus on privacy-preserving networks, machine learning-driven networked systems, user privacy, computer security, and future wireless networks.
 
 Here is my [CV](/cv_yoonkyo.pdf) for more info! \\
-Contact: ykjung dot umd.edu
+Contact: ykjung@umd.edu
 
 🏫 Education
 ------
