@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "CV"
-permalink: /cv_yoonkyo.pdf
+permalink: /cv_YoonkyoJung.pdf
 author_profile: true
 redirect_from:
   - /resume
